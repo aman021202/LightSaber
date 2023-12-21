@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979348453889",
+    "project_id": "lightsaber-2de9b",
+    "storage_bucket": "lightsaber-2de9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979348453889:android:da6399ce43b97ed66fde00",
+        "android_client_info": {
+          "package_name": "com.example.lightsaber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwbHYit2j0QWnrPzRc89-CGFV0KGW11k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
